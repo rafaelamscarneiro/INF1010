@@ -3,7 +3,7 @@ Nota: 85/100
 
 Correção:  
   
-  Criou a lista corretamente(2,0)
+    Criou a lista corretamente(2,0)
 
     Melhor fazer funções que criem as formas geometricas do que repetir o código na main.
 
