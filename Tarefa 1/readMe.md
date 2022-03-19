@@ -1,7 +1,7 @@
 Tarefa sobre listas duplamente encadeadas e heterogêneas  
 Nota: 85/100  
 
-Correção:
+Correção:  
 Criou a lista corretamente(2,0)
 
     Melhor fazer funções que criem as formas geometricas do que repetir o código na main.
