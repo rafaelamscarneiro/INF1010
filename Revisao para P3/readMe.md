@@ -1,4 +1,5 @@
 Correção:  
+
     Acertou kruskal
 
     errou item c
